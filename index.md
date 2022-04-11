@@ -1,37 +1,32 @@
-## Welcome to GitHub Pages
+# Dez_ent's Portfolio
+- **Lua/Luau** : 2 years of experience.
+- **UI Design**: 1 year of experience.
+- **Front-end**: Experienced.
+- **Back-end**: Intermediate.
 
-You can use the [editor on GitHub](https://github.com/DezentLua/DezentLua.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## Previous Jobs
+1. **VenomCronus's British Army**
+- Front-End Programmer
+- UI Designer
+- [Showcase](https://streamable.com/tz9cw7)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Self Jobs
+1. Deployment UI
+- [Showcase](https://streamable.com/5mrf6o)
 
-### Markdown
+2. Deployment UI #2
+- [Showcase](https://streamable.com/ieuos5)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+3. Universal User Interface
+- [Showcase](https://streamable.com/i9571n)
 
-```markdown
-Syntax highlighted code block
+4. Untitled Interface [NOT FINISHED]
+- [Showcase](https://streamable.com/9717dr)
 
-# Header 1
-## Header 2
-### Header 3
+5. South London 2 Utility
+- [Showcase](https://github.com/DezentLua/Roblox-Utilities/blob/main/South%20London%202-obfuscated%20(1).lua)
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DezentLua/DezentLua.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## INFO
+- Contact: Dez_ent#5959
+- [Roblox Profile](https://www.roblox.com/users/416117596/profile)
+- [DevForum Porfile](https://devforum.roblox.com/u/dez_ent/summary) 
