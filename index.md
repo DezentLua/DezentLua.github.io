@@ -10,7 +10,15 @@
 - UI Designer
 - [Showcase](https://streamable.com/tz9cw7)
 
+2. **InitStudios**
+- Front-End Programmer
+- UI Designer
+- The game got taken down lmao
+
 ## Self Jobs
+1. SCP:F Tech --//The newest and the best stuff
+- [Showcase](https://streamable.com/h4vt9o)
+
 1. Deployment UI
 - [Showcase](https://streamable.com/5mrf6o)
 
