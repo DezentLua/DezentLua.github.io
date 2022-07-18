@@ -16,8 +16,8 @@
 - UI Designer
 
 ## Self Jobs
-1. Interaction system for my United States Army --// Favorite stuff
-- [Showcase](https://streamable.com/ycuvvv)
+1. Tech for my USAR --// Favorite stuff
+- [Showcase](https://streamable.com/jkw3et)
 
 2. Planks Game (Hypertension) --// Favorite stuff
 - [Showcase](https://streamable.com/mwziwb)
