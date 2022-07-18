@@ -8,15 +8,23 @@
 1. **VenomCronus's British Army**
 - Front-End Programmer
 - UI Designer
-- [Showcase](https://streamable.com/tz9cw7)
+- [Showcase](https://streamable.com/tz9cw7) --// Very old
 
 2. **InitStudios**
 - Front-End Programmer
+- Core game mechanic Programmer
 - UI Designer
-- The game got taken down lmao
 
 ## Self Jobs
-1. SCP:F Tech --//The newest and the best stuff
+1. Interaction system for my United States Army --// Favorite stuff
+- [Showcase](https://streamable.com/ycuvvv)
+
+2. Planks Game (Hypertension) --// Favorite stuff
+- [Showcase](https://streamable.com/mwziwb)
+- The game is nearly entirely finished, with datastores, monetization, anticheat, etc.
+- The game is a dropped project.
+
+1. SCP:F Tech
 - [Showcase](https://streamable.com/h4vt9o)
 
 1. Deployment UI
@@ -28,10 +36,7 @@
 3. Universal User Interface
 - [Showcase](https://streamable.com/i9571n)
 
-4. Untitled Interface [NOT FINISHED]
-- [Showcase](https://streamable.com/9717dr)
-
-5. South London 2 Utility
+4. South London 2 Utility
 - [Showcase](https://github.com/DezentLua/Roblox-Utilities/blob/main/South%20London%202-obfuscated%20(1).lua)
 
 ## INFO
