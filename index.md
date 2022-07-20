@@ -4,6 +4,10 @@
 - **Front-end**: Experienced.
 - **Back-end**: Intermediate.
 
+## Current Jobs
+1. **Missaying's United States Army**
+- Head Progrmmer
+
 ## Previous Jobs
 1. **VenomCronus's British Army**
 - Front-End Programmer
