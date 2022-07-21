@@ -6,7 +6,7 @@
 
 ## Current Jobs
 1. **Missaying's United States Army**
-- Head Progrmmer
+- Head Programmer
 
 ## Previous Jobs
 1. **VenomCronus's British Army**
